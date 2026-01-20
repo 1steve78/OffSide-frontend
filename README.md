@@ -123,11 +123,10 @@ MIT License - feel free to use this for your own projects!
 
 ## 🙏 Credits
 
-- Built for [OffSide](https://github.com/yasinULLAH/OffSide) - Football Match Simulator & AI Prediction Platform
+- Built for [OffSide](https://github.com/spyke7/offside) - Football Match Simulator & AI Prediction Platform
 - Data powered by [StatsBomb Open Data](https://github.com/statsbomb/open-data)
 - Fonts from [Google Fonts](https://fonts.google.com)
 
 ---
 
 Made with ❤️ by [MD YASIN ALAM](https://github.com/1steve78) & [SHREEJAN DOLAI](https://github.com/spyke7)
-
