@@ -129,4 +129,5 @@ MIT License - feel free to use this for your own projects!
 
 ---
 
-Made with ❤️ by [Yasin Ullah](https://github.com/yasinULLAH)
+Made with ❤️ by [MD YASIN ALAM](https://github.com/1steve78) & [SHREEJAN DOLAI](https://github.com/spyke7)
+
