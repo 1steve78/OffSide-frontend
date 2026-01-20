@@ -396,7 +396,7 @@ export default function Home() {
                         </div>
                     </div>
 
-                    <a href="https://github.com/yasinULLAH/OffSide/archive/refs/heads/main.zip" className={`${styles.btn} ${styles.btnDownload}`} download>
+                    <a href="https://github.com/spyke7/offside" className={`${styles.btn} ${styles.btnDownload}`} download>
                         <span className={styles.btnIcon}>⬇️</span>
                         <span className={styles.btnText}>
                             <strong>Download OffSide</strong>
